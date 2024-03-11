@@ -1,113 +1,91 @@
 [
     {
-        "name": "Purvesh Gupta",
+        "name": "Sahil Ali",
         "role": "Leader",
-        "image": "assets/img/team/purvesh_gupta.jpg",
+        "image": "assets/img/team/Sahil.jpg",
         "social": {
-            "insta": "purvesh__gupta",
-            "linkedin": "purvesh-gupta-736b95256",
+            "insta": "thestarsahil",
+            "linkedin": "thestarsahil",
             "email": "purveshgupta19@gmail.com"
         },
         "category": "Lead Organizer"
     },
     {
-        "name": "Pratham Batra",
-        "role": "Leader",
-        "image": "assets/img/team/pratham_batra.jpg",
+        "name": "Vedansh Gupta",
+        "role": "Co-Leader and Tech HR",
+        "image": "assets/img/team/Vedansh.jpg",
         "social": {
-            "insta": "prath4m1908",
-            "linkedin": "pratham1908"
+            "insta": "vedanshguptaa",
+            "linkedin": "vedansh-gupta-06ab10254",
+            "email": "Vedanshgupta2803@gmail.com"
         },
         "category": "Lead Organizer"
     },
     {
-        "name": "Manas Chopra",
-        "role": "Leader",
-        "image": "assets/img/team/manas_chopra.jpg",
+        "name": "Rashmi Rautela",
+        "role": "Web Lead",
+        "image": "assets/img/team/Rashmi.jpg",
         "social": {
-            "insta": "themanas.ai",
-            "linkedin": "themanas95826"
+            "insta": "rashmi__rautela",
+            "linkedin": "rashmi-rautela-3912b6247",
+            "email": "rrashmi.7rautela@gmail.com"
         },
         "category": "Lead Organizer"
     },
     {
-        "name": "Arnav Gupta",
-        "role": "Leader",
-        "image": "assets/img/team/arnav_gupta.jpg",
+        "name": "Yanvi",
+        "role": "Management Lead",
+        "image": "assets/img/team/Yanvi.jpg",
         "social": {
             "insta": "arnav_gupta.16",
-            "linkedin": "arnav-gupta-437a66256"
+            "linkedin": "arnav-gupta-437a66256",
+            "email": "#"
         },
         "category": "Lead Organizer"
     },
     {
-        "name": "Akshay Kumar Sharma",
+        "name": "Rashmi Rautela",
         "role": "Leader",
-        "image": "assets/img/team/akshay_sharma.jpg",
+        "image": "assets/img/team/Rashmi.jpg",
         "social": {
-            "insta": "akshay._95",
-            "linkedin": "akshay-kumar-sharma-devvoyager"
+            "insta": "rashmi__rautela",
+            "linkedin": "rashmi-rautela-3912b6247",
+            "email": "rrashmi.7rautela@gmail.com"
         },
         "category": "Web Dev"
     },
     {
-        "name": "Aditya Singh",
-        "role": "Leader",
-        "image": "assets/img/team/aditya_pratap_singh.jpg",
+        "name": "Jiya Jindal",
+        "role": "Tech-Leader",
+        "image": "assets/img/team/Jiya.jpg",
         "category": "Web Dev",
         "social": {
-            "insta": "_singh_adiitya",
-            "linkedin": "aditya-singh-a04721208"
+            "insta": "jiyaajindall",
+            "linkedin": "jiya-jindal-766340288",
+            "email": "Jiya826m@gmail.com"
         }
     },
     {
-        "name": "Tanmay Arora",
-        "role": "Leader",
-        "image": "assets/img/team/tanmay_arora.jpg",
-        "category": "Web Dev",
-        "social": {
-            "insta": "tanmay_exe",
-            "linkedin": "tanmaycode1"
-        }
-    },
-    {
-        "name": "Aditya Taneja",
+        "name": "Prateek",
         "role": "Member",
-        "image": "",
+        "image": "assets/img/team/Prateek.jpg",
         "category": "Web Dev",
         "social": {
-            "insta": "",
-            "linkedin": ""
+            "insta": "prateek_singh2604",
+            "linkedin": "prateek-25557a211",
+            "email": "mailto:prateek.art2002@gmail.com"
         }
     },
     {
-        "name": "Navneet Baid",
+        "name": "Jai",
         "role": "Member",
-        "image": "assets/img/team/navneet_baid.png",
+        "image": "assets/img/team/jai.jpg",
         "category": "Web Dev",
         "social": {
-            "insta": "navneet.baid",
-            "linkedin": "navneet-b-a418ab187"
-        }
-    },
-    {
-        "name": "Pritam Shil",
-        "role": "Member",
-        "image": "assets/img/team/pritim_shil.jpg",
-        "category": "Web Dev",
-        "social": {
-            "insta": "its_pritam_shil03",
-            "linkedin": "pritam-shil-19178a274"
-        }
-    },
-    {
-        "name": "Rupesh Sharma",
-        "role": "Member",
-        "image": "assets/img/team/rupesh_sharma.jpeg",
-        "category": "Web Dev",
-        "social": {
-            "insta": "r_u_r_sharma",
-            "linkedin": "rupesh-sharma-a22905211"
+            "insta": "jai_mishra4",
+            "linkedin": "jai47",
+            "email": "official.jaimishra@gmail.com"
         }
     }
 ]
+

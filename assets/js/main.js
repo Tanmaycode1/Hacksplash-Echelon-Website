@@ -229,7 +229,7 @@
   });
 
   /**
-   * Animation on scroll
+   * Ani  tion on scroll
    */
   window.addEventListener("load", () => {
     AOS.init({

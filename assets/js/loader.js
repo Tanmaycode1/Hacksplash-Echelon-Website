@@ -10,7 +10,7 @@
  */
 
 
-// ---------------------- Judges Section ----------------------
+// ---------------------- Judges Section ----   ------------------
 const judgesContainer = document.getElementById('judges-container');
 const loadMoreJudgeBtn = document.getElementById('loadMoreJudgeBtn');
 const judgesPerLoad = 4;
