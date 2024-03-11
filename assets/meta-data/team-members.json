@@ -1,6 +1,6 @@
 [
     {
-        "name": "Sahil Ali",
+        "name": "Sahil Ali(GDSC)",
         "role": "Leader",
         "image": "assets/img/team/Sahil.jpg",
         "social": {
@@ -11,7 +11,7 @@
         "category": "Lead Organizer"
     },
     {
-        "name": "Vedansh Gupta",
+        "name": "Vedansh Gupta(GDSC)",
         "role": "Co-Leader and Tech HR",
         "image": "assets/img/team/Vedansh.jpg",
         "social": {
@@ -22,7 +22,7 @@
         "category": "Lead Organizer"
     },
     {
-        "name": "Rashmi Rautela",
+        "name": "Rashmi Rautela(GDSC)",
         "role": "Web Lead",
         "image": "assets/img/team/Rashmi.jpg",
         "social": {
@@ -33,19 +33,19 @@
         "category": "Lead Organizer"
     },
     {
-        "name": "Yanvi",
-        "role": "Management Lead",
-        "image": "assets/img/team/Yanvi.jpg",
+        "name": "Jiya Jindal(GDSC)",
+        "role": "Tech-Leader",
+        "image": "assets/img/team/Jiya.jpg",
         "social": {
-            "insta": "arnav_gupta.16",
-            "linkedin": "arnav-gupta-437a66256",
-            "email": "#"
+            "insta": "jiyaajindall",
+            "linkedin": "jiya-jindal-766340288",
+            "email": "Jiya826m@gmail.com"
         },
         "category": "Lead Organizer"
     },
     {
         "name": "Rashmi Rautela",
-        "role": "Leader",
+        "role": "Leader(GDSC)",
         "image": "assets/img/team/Rashmi.jpg",
         "social": {
             "insta": "rashmi__rautela",
@@ -55,8 +55,19 @@
         "category": "Web Dev"
     },
     {
+        "name": "Vedansh Gupta",
+        "role": "Co-Lead(GDSC)",
+        "image": "assets/img/team/Vedansh.jpg",
+        "category": "Web Dev",
+        "social": {
+            "insta": "vedanshguptaa",
+            "linkedin": "vedansh-gupta-06ab10254",
+            "email": "Vedanshgupta2803@gmail.com"
+        }
+    },
+    {
         "name": "Jiya Jindal",
-        "role": "Tech-Leader",
+        "role": "Tech-Leader(GDSC)",
         "image": "assets/img/team/Jiya.jpg",
         "category": "Web Dev",
         "social": {
@@ -67,7 +78,7 @@
     },
     {
         "name": "Prateek",
-        "role": "Member",
+        "role": "Member(GDSC)",
         "image": "assets/img/team/Prateek.jpg",
         "category": "Web Dev",
         "social": {
@@ -78,7 +89,7 @@
     },
     {
         "name": "Jai",
-        "role": "Member",
+        "role": "Member(GDSC)",
         "image": "assets/img/team/jai.jpg",
         "category": "Web Dev",
         "social": {
