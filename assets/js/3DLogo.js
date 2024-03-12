@@ -15,7 +15,7 @@ import { OrbitControls } from 'https://threejsfundamentals.org/threejs/resources
 // Set up Three.js scene, camera, and renderer
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-camera.position.z = 40;
+camera.position.z = 18;
 const renderer = new THREE.WebGLRenderer();
 renderer.outputEncoding = THREE.sRGBEncoding;
 document.getElementById('logoCanvas').appendChild(renderer.domElement);
@@ -52,7 +52,7 @@ const getInitialScale = () => {
 const initialScale = getInitialScale();
 
 // Load the 3D logo model and set initial scale
-gltfLoader.load('./assets/3DLogo.gltf', (gltf) => {
+gltfLoader.load('./assets/hacksplash.glb', (gltf) => {
     gltf.scene.scale.set(initialScale, initialScale, initialScale);
     scene.add(gltf.scene);
 
@@ -96,6 +96,7 @@ const animate = () => {
     if (object) {
         if (controls.autoRotate) {
             object.rotation.y += 0.0001;
+            object.rotation.x -= 0.006;
         }
     }
 
